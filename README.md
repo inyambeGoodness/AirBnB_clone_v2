@@ -4,6 +4,9 @@ This repository contains the initial stage of a student project to build a clone
 
 ---
 
+Updated readme file
+team: Temilade Dauda, Goodness Inyambe)
+
 <center><h3>Repository Contents by Project Task</h3> </center>
 
 | Tasks | Files | Description |
