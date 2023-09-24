@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ Test link Many-To-Many Place <> Amenity
 """
+
 from models.user import User
 from models.place import Place
 from models.state import State
